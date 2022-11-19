@@ -448,6 +448,7 @@ li.dropdown i.fa.dropdown-toggle {
     height: 3px;
   }
   ul.main-menu > li {
+    
     display: block;
   }
   ul.main-menu {
@@ -3217,4 +3218,7 @@ ul.nav-tabs {
 }
 .hr{
   border-top: 1px dotted red;
+}
+.sub_points{
+  color: #675f3f;
 }
