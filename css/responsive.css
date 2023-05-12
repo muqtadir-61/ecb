@@ -1,0 +1,159 @@
+@media (max-width: 1200px) {
+	.menu-right a {
+		padding: 10px 12px;
+	}
+}
+
+@media (max-width: 991px) {
+	.menu-right ul li a i,
+	.slicknav_nav a i {
+		display: none;
+	}
+	.menu-center,
+	.menu-right {
+		display: none;
+	}
+	#responsive-menu {
+		display: block;
+	}
+	#responsive-menu a:hover,
+	#responsive-menu a:focus,
+	#responsive-menu a:active {
+		text-decoration: none;
+		border: none;
+		outline: 0;
+		font-family: 'Rubik', sans-serif;
+		color: #fff;
+	}
+	.slicknav_menu {
+		background: transparent;
+	}
+	.header-menu {
+		position: relative;
+		z-index: 9;
+	}
+	.slicknav_btn {
+		margin: 11px 10px 28px;
+		text-shadow: none;
+		border-radius: 0;
+		background-color: #1f395f;
+		margin-bottom: 34px;
+	}
+	.slicknav_nav a:hover,
+	.slicknav_item.slicknav_row:active,
+	.slicknav_nav .slicknav_row:hover {
+		background: transparent;
+		color: #fff;
+	}
+	#responsive-menu {
+		position: absolute;
+		top: 16px;
+		right: 0;
+	}
+	.slicknav_nav {
+		background: #ED6F42;
+		width: 200px;
+		padding: 5px 10px;
+		margin-right: 10px;
+	}
+	.solution-btn {
+		text-align: left;
+	}
+	.border-rb,
+	.border-b,
+	.border-r {
+		border: none;
+	}
+	.box-sad {
+		box-shadow: none;
+	}
+	.service .plr-0 {
+		padding-right: 15px;
+		padding-left: 15px;
+	}
+	.service .mlr-0 {
+		margin-right: -15px;
+		margin-left: -15px;
+	}
+	.review-content {
+		margin-top: 40px;
+	}
+	.review-group .owl-nav div {
+		left: 15px;
+		bottom: -60px;
+	}
+	.review-group .owl-nav div.owl-next {
+		left: 65px;
+	}
+	.blog-right-btn {
+		text-align: left;
+		margin-top: 15px;
+	}
+	.project-sidebar {
+	    margin-top: 30px;
+    }
+    .sidebar {
+	    margin-top: 30px;
+    }
+	.remb-45 {
+		margin-bottom: 45px;
+	}
+	.rmt-30 {
+		margin-top: 30px;
+	}
+	.remb-30 {
+		margin-bottom: 30px;
+	}
+}
+@media (max-width: 767px) {
+	.related-share {
+	    text-align: left;
+	    margin-top: 17px;
+    }
+	.slider-item {
+		height: 490px;
+	}
+	.slider-content h2 {
+		font-size: 45px;
+		line-height: 55px;
+	}
+	.project-filter li {
+		line-height: 34px;
+	}
+	.rtmb-30 {
+		margin-bottom: 30px;
+	}
+	.rtmb-45 {
+		margin-bottom: 45px;
+	}
+}
+@media (max-width: 575px) {
+	.mmbe-30 {
+		margin-bottom: 30px;
+	}
+	.footer-logo {
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	.footer-copyeight {
+		text-align: center;
+	}
+}
+@media (max-width: 500px) {
+	.slider-content h2 {
+		font-size: 26px;
+		line-height: 36px;
+	}
+	h2,
+	.section-title h2 {
+		font-size: 28px;
+		line-height: 38px;
+	}
+	.wh-btn {
+		padding: 8px 20px;
+		
+	}
+	.about-expre {
+	    right: -10px;
+    }
+}
